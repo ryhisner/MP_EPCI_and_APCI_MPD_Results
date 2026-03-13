@@ -6,3 +6,4 @@ dataset, but these mutations were assigned randomly from the list of actual priv
 Files that end in "Substitution" are based on exact amino acid substitutions, while files ending in "Position Only" are based on
 the positions at which the amino acid mutations occurred. 
 In each file "Results" file, there is a key explaining the meaning of the column names. At the bottom of the screen click on the second tab to see this key.  
+The columnn name key for the "Stats" files is on the same page as the statistics, off to the right side.
