@@ -7,3 +7,5 @@ Files that end in "Substitution" are based on exact amino acid substitutions, wh
 the positions at which the amino acid mutations occurred. 
 In each file "Results" file, there is a key explaining the meaning of the column names. At the bottom of the screen click on the second tab to see this key.  
 The columnn name key for the "Stats" files is on the same page as the statistics, off to the right side.
+
+The same files were made when using stricter parameters for EPCI qualification, which can be found in the repository called     MP_EPCI_and_APCI_MPD_Results__Sensitivity_Tests
